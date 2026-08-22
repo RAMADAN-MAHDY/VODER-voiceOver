@@ -15,3 +15,7 @@ src/envs/*/include/
 src/envs/*/share/
 src/envs/*/.venv/
 src/envs/*/pyvenv.cfg
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
