@@ -297,3 +297,14 @@ The full story is in [Guide.md → Project El Final](docs/Guide.md#project-el-fi
 ---
 
 Built for the open-source AI voice community.
+
+
+---
+
+## النسخة العربية | Arabic Summary
+
+**VODER** أداة معالجة صوت احترافية تعمل **محليًا ومجانًا وبدون إنترنت**.
+
+**المشكلة والحل بالأرقام:** أدوات الصوت الاحترافية غالية أو سحابية وترفع ملفاتك لسيرفرات خارجية. VODER يعالج الصوت كله على جهازك: تحسين وتنقية التعليق الصوتي، إزالة الضوضاء، وتحويلات صوتية متعددة، بنماذج ذكاء اصطناعي تعمل محليًا. جاهز للتجربة مباشرة على **Google Colab** من الزر في الأعلى، بدون تثبيت.
+
+**المشكلة:** professional voice tools are expensive or cloud-based and upload your files. **الحل:** VODER runs everything on your own machine: voice-over cleanup, noise removal and several voice transformations with local AI models. Try it on Google Colab with the badge above, no install needed.
